@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aiml>
+<!--lastchange: 19.05.2024 10:55:09-->
+<!--created with: GaitoBot Editor V0.12b--><category id="3YGW25">
+	<pattern>TARGET BOTSTART</pattern>
+	<template>Добро пожаловать в лавку бота Арбузника!</template>
+</category><category id="X3TDWN">
+	<pattern>*</pattern>
+	<template>Я не смогу помочь вам в этом вопросе, лучше спросите про арбузы.</template>
+</category><category id="62XHBM">
+	<pattern>привет</pattern>
+	<template>Привет, чем могу помочь?</template>
+</category><category id="4KP9CG">
+	<pattern>как дела?</pattern>
+	<template>Все отлично, спасибо за вопрос.</template>
+</category><category id="WQWGD5">
+	<pattern>какая сегодня погода?</pattern>
+	<template>Понятия не имею, я арбузы продаю вообще-то.</template>
+</category><category id="4X4SNW">
+	<pattern>как тебя зовут?</pattern>
+	<template>Меня зовут бот Арбузник.</template>
+</category><category id="PBH4TB">
+	<pattern>сколько стоит арбуз?</pattern>
+	<template>52 рубля (ну типа писят два sp)</template>
+</category><category id="TL3TQS">
+	<pattern>окрошка</pattern>
+	<template>на кефире (на квасе -реп фуфу)</template>
+</category><category id="PLMJTK">
+	<pattern>z</pattern>
+	<template>v</template>
+</category>
+</aiml>
